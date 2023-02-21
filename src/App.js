@@ -38,6 +38,7 @@ function App() {
               setCoordinates={setCoordinates}
               setBounds={setBounds}
               coordinates={coordinates}
+              places={places}
             />
           </Grid>
         </Grid>
