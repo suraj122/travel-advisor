@@ -1,0 +1,10 @@
+body {
+  overflow: hidden;
+}
+.search {
+  display: flex;
+  align-items: center;
+}
+.search h6 {
+  font-size:16px;
+}
